@@ -19,7 +19,6 @@ st.set_page_config(
 # The sidebar is used for navigation, interaction, and supplementary info.
 with st.sidebar:
     st.image("static/grad_pic.JPG", 
-             caption="Moen Malone I. Rago", 
              use_container_width=True) # <-- Corrected parameter
     
     st.title("Moen Malone I. Rago")
