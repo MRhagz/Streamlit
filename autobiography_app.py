@@ -119,7 +119,7 @@ with tab2:
         projects like toy boats that raced on the village canals. This early resourcefulness and inventiveness 
         would become the foundation of his problem-solving mindset.
         """)
-        st.image("https://picsum.photos/id/1015/500/200", 
+        st.image("static/boat.png", 
                  caption="Childhood was filled with adventure and creativity.")
 
     st.markdown("""
